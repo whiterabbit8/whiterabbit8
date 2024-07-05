@@ -17,7 +17,6 @@
 
 ### About me:
 - :mortar_board: I finished RS School Java Script / Front-end and React courses
-- :books: I'm currently learning **NodeJS**
 - :woman_student: I graduated from BSUIR
 - :microscope: I was working as SMT Process Engineer for 4 years
 - :woman_technologist: I'm looking for new oportunities at web development
